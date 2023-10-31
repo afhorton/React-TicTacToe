@@ -6,7 +6,7 @@
   },
   "main": "/index.js",
   "devDependencies": {},
-  "name": "TicTacToe",
+  "name": "tictactoe",
   "description": null,
   "version": "0.0.0",
   "scripts": {
